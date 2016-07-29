@@ -1,6 +1,5 @@
 //
 //  DirectionPanRecognizer.m
-//  Phyzseek
 //
 //  Created by Nikita Ermolenko on 13/07/16.
 //  Copyright © 2016 rosberry. All rights reserved.
